@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+# HTML Template
 
 Template Name: Active
 Template URL: https://bootstrapmade.com/active-bootstrap-website-template/
